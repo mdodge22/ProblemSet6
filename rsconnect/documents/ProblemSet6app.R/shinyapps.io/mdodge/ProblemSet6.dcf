@@ -1,0 +1,13 @@
+name: ProblemSet6
+title: ProblemSet6
+username:
+account: mdodge
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3748133
+bundleId: 4310340
+url: https://mdodge.shinyapps.io/ProblemSet6/
+when: 1615073186.29944
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: DS_Week6.R|DS_Week6.Rmd
